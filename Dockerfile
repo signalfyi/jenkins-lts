@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:lts
+FROM jenkins/jenkins:lts@sha256:50b22a852fa690a195453231f649ee171ee6b15a57c3b49bab4130dd97612c34
